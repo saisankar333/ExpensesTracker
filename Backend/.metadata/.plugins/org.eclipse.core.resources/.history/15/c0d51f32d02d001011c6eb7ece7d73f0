@@ -1,0 +1,79 @@
+package com.financetracker.model;
+
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
+
+import java.util.Collection;
+import java.util.Collections;
+import java.util.List;
+
+@Entity
+@Table(name = "users") // Explicitly names the table "users" in database
+@Data // Lombok annotation for getters, setters, toString, etc.
+@NoArgsConstructor // Lombok generates no-args constructor
+@AllArgsConstructor // Lombok generates all-args constructor
+public class User implements UserDetails { // Implements UserDetails for Spring Security
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // Auto-increment ID
+    private Long id;
+    
+    @Column(nullable = false) // Name cannot be null
+    private String name;
+    
+    @Column(nullable = false, unique = true) // Email must be unique and not null
+    private String email;
+    
+    @Column(nullable = false) // Password cannot be null
+    private String password;
+    
+    // One-to-Many relationship with Budget
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Budget> budgets;
+    
+    // One-to-Many relationship with Expense
+    @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    private List<Expense> expenses;
+    
+    // Required methods from UserDetails interface
+    
+    @Override
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        // Return empty list as we're not implementing roles in this example
+        return Collections.emptyList();
+    }
+    
+    @Override
+    public String getUsername() {
+        // For Spring Security, username is the email
+        return email;
+    }
+    
+    @Override
+    public boolean isAccountNonExpired() {
+        // Accounts don't expire in this implementation
+        return true;
+    }
+    
+    @Override
+    public boolean isAccountNonLocked() {
+        // Accounts aren't locked in this implementation
+        return true;
+    }
+    
+    @Override
+    public boolean isCredentialsNonExpired() {
+        // Credentials don't expire in this implementation
+        return true;
+    }
+    
+    @Override
+    public boolean isEnabled() {
+        // All accounts are enabled in this implementation
+        return true;
+    }
+}

@@ -1,0 +1,142 @@
+2025-05-10 23:00:39,213 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-05-10 23:02:29,311 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.budgettracker:budget-tracker:0.0.1-SNAPSHOT @ /Users/saisankarkonidina/Desktop/Hackathon2/Backend/budget-tracker/pom.xml.
+2025-05-10 23:02:29,837 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /budget-tracker/src/main/java
+2025-05-10 23:02:29,838 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/main/resources
+2025-05-10 23:02:29,839 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/main/resources
+2025-05-10 23:02:29,841 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /budget-tracker/src/test/java
+2025-05-10 23:02:29,841 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/test/resources
+2025-05-10 23:02:30,190 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2025-05-10 23:02:30,192 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-10 23:02:30,298 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.budgettracker:budget-tracker:0.0.1-SNAPSHOT @ /Users/saisankarkonidina/Desktop/Hackathon2/Backend/budget-tracker/pom.xml.
+2025-05-10 23:02:30,460 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /budget-tracker/src/main/java
+2025-05-10 23:02:30,460 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/main/resources
+2025-05-10 23:02:30,460 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/main/resources
+2025-05-10 23:02:30,460 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /budget-tracker/src/test/java
+2025-05-10 23:02:30,461 [Worker-5: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /budget-tracker/src/test/resources
+2025-05-10 23:02:30,610 [Worker-5: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-05-10 23:02:31,119 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-10 23:02:31,130 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-10 23:02:31,134 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/budget-tracker/src/test/resources
+2025-05-10 23:07:06,197 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-10 23:07:06,207 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-10 23:07:06,210 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/budget-tracker/src/test/resources
+2025-05-10 23:12:41,430 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.financetracker:financetracker:0.0.1-SNAPSHOT @ /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/pom.xml.
+2025-05-10 23:12:41,719 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financetracker/src/main/java
+2025-05-10 23:12:41,720 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/main/resources
+2025-05-10 23:12:41,721 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/main/resources
+2025-05-10 23:12:41,722 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financetracker/src/test/java
+2025-05-10 23:12:41,722 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/test/resources
+2025-05-10 23:12:42,000 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2025-05-10 23:12:42,002 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-05-10 23:12:42,216 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.financetracker:financetracker:0.0.1-SNAPSHOT @ /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/pom.xml.
+2025-05-10 23:12:42,400 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financetracker/src/main/java
+2025-05-10 23:12:42,400 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/main/resources
+2025-05-10 23:12:42,400 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/main/resources
+2025-05-10 23:12:42,400 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /financetracker/src/test/java
+2025-05-10 23:12:42,400 [Worker-11: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /financetracker/src/test/resources
+2025-05-10 23:12:42,501 [Worker-11: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-05-10 23:12:42,832 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-10 23:12:42,841 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-10 23:12:42,844 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-10 23:12:43,026 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.38/lombok-1.18.38-sources.jar
+2025-05-10 23:12:43,707 [Worker-12: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.38/lombok-1.18.38-sources.jar
+2025-05-10 23:12:43,709 [Worker-12: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.38
+2025-05-11 00:23:58,004 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:23:58,006 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:23:58,008 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:24:06,339 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:24:06,343 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:24:06,345 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:24:26,716 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:24:26,738 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:24:26,740 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:48:46,487 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:48:46,520 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:48:46,525 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:49:10,098 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:49:10,111 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:49:10,112 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:50:35,785 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:50:35,798 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:50:35,800 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:53:46,119 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:53:46,124 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:53:46,125 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:54:02,377 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:54:02,395 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:54:02,396 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:54:22,102 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:54:22,107 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:54:22,108 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:56:54,406 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:56:54,413 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:56:54,417 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:57:00,746 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:57:00,754 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:57:00,755 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:57:08,974 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:57:08,978 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:57:08,979 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:58:58,284 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:58:58,292 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:58:58,294 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:59:09,859 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:59:09,868 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:59:09,869 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 00:59:59,112 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 00:59:59,120 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 00:59:59,121 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:00:26,384 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:00:26,389 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:00:26,390 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:01:22,895 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:01:22,912 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:01:22,914 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:01:56,554 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:01:56,559 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:01:56,560 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:02:54,203 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:02:54,208 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:02:54,209 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:03:55,396 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:03:55,406 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:03:55,408 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:04:31,083 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:04:31,092 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:04:31,093 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:05:20,840 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:05:20,855 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:05:20,859 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:06:04,354 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:06:04,358 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:06:04,359 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:06:30,026 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:06:30,031 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:06:30,032 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:08:02,165 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:08:02,174 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:08:02,176 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:09:00,746 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:09:00,751 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:09:00,753 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:09:21,588 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:09:21,606 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:09:21,609 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:09:53,554 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:09:53,560 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:09:53,562 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:11:06,770 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:11:06,777 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:11:06,779 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:11:39,121 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:11:39,125 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:11:39,127 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:12:03,927 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:12:03,938 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:12:03,941 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:13:09,671 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:13:09,692 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:13:09,694 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
+2025-05-11 01:13:54,887 [Worker-27: Launching financetracker - FinancetrackerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-05-11 01:13:54,895 [Worker-27: Launching financetracker - FinancetrackerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-05-11 01:13:54,898 [Worker-27: Launching financetracker - FinancetrackerApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/saisankarkonidina/Desktop/Hackathon2/Backend/financetracker/src/test/resources
